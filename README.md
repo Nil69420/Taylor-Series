@@ -7,5 +7,5 @@
 Code written and executed using MATLAB
 
 <p align="left">
-  <img width="460" height="300" src="images/pien.png">
+  <img width="460" height="300" src="images/pien.PNG">
 </p>
